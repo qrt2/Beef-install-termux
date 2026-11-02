@@ -8,7 +8,7 @@ Script de instalação automatizada do **BeEF (Browser Exploitation Framework)**
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/CK9CHpWj/Screenshot-20261102-110206-Termux.jpg](https://i.ibb.co/TBVCtJhL/Screenshot-20261102-110807-Via.jpg" alt="BeEF no Termux" width="350">
+  <img src="https://i.ibb.co/TBVCtJhL/Screenshot-20261102-110807-Via.jpg](https://i.ibb.co/TBVCtJhL/Screenshot-20261102-110807-Via.jpg" alt="BeEF no Termux" width="350">
 </p>
 
 <p align="center">

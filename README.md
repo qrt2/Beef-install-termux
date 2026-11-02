@@ -23,7 +23,7 @@ Abra o seu Termux e execute:
 
 ```bash
 pkg update && pkg install git -y
-git clone [https://github.com/O_TEU_UTILIZADOR/O_TEU_REPO.git](https://github.com/O_TEU_UTILIZADOR/O_TEU_REPO.git)
+git clone https://github.com/qrt2/Beef-install-termux
 cd Beef-install-termux
 chmod +x install.sh
 ./install.sh

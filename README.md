@@ -3,6 +3,18 @@
 [![Telegram Contact](https://img.shields.io/badge/Telegram-@cybe4-blue?style=for-the-badge&logo=telegram)](https://t.me/cybe4)
 
 Script de instalação automatizada do **BeEF (Browser Exploitation Framework)** adaptado para correr nativamente no **Termux (Android)** sem interrupções de prompts e com correção automática de dependências nativas (Nokogiri, FFI e Sqlite3).
+<p align="center">
+  <img src="https://i.ibb.co/CK9CHpWj/Screenshot-20261102-110206-Termux.jpg" alt="BeEF no Termux" width="350">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/CK9CHpWj/Screenshot-20261102-110206-Termux.jpg](https://i.ibb.co/TBVCtJhL/Screenshot-20261102-110807-Via.jpg" alt="BeEF no Termux" width="350">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/3YQkSTYZ/Screenshot-20261102-122728-Termux.jpg" alt="BeEF no Termux" width="350">
+</p>
+
 
 ---
 
